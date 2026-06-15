@@ -1,0 +1,13 @@
+{
+    "device_id": "UR_ROBOT_01",
+    "sensors": {
+        "lidar": {
+            "frequency": 25.5,
+            "port": "/dev/ttyUSB0"
+        },
+        "camera": {
+            "frequency": 60.0,
+            "port": "/dev/video0"
+        }
+    }
+}
